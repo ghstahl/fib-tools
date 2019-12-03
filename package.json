@@ -1,5 +1,5 @@
 {
-  "name": "@Your-GitHub-Handle/Your-Repo-Name",
+  "name": "@ghstahl/fib-tools",
   "version": "0.1.1",
   "description": "Functions for working with the Fibonacci sequence",
   "main": "index.js",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Your-GitHub-Handle/Your-Repo-Name#readme",
   "devDependencies": {
+    "growl": ">=1.10.0",
     "jest": "^24.8.0",
     "chai": "^3.5.0",
     "istanbul": "^0.4.3",

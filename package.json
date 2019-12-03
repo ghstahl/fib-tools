@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Your-GitHub-Handle/Your-Repo-Name.git"
+    "url": "git://github.com/ghstahl/fib-tools.git"
   },
   "author": "Jonathan Clem <jclem@github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Your-GitHub-Handle/Your-Repo-Name/issues"
+    "url": "https://github.com/ghstahl/fib-tools/issues"
   },
-  "homepage": "https://github.com/Your-GitHub-Handle/Your-Repo-Name#readme",
+  "homepage": "https://github.com/ghstahl/fib-tools#readme",
   "devDependencies": {
-    "growl": ">=1.10.0",
+    
     "jest": "^24.8.0",
     "chai": "^3.5.0",
     "istanbul": "^0.4.3",
